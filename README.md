@@ -25,16 +25,13 @@ I build fast, learn fast, and keep leveling up.
 
 <div align="center">
 
-# 🚀 মই কি বানাওঁ  
+# 🚀 মই কি কি বনাওঁ  
 - 🤖 **AI Assistants & Agents**  
 - ⚙️ **Automation Systems**  
 - 🧩 **Developer Utilities**  
 - 🎮 **AI-Powered Games**  
 - 📚 **Informative + Educational Tools**  
-- 🌐 **Web Apps & Dashboards**  
-- 🧠 **GenAI + RAG Experiments**
 
-> **I don’t hype. I build.**  
 > **মই কথা নহয় — কাম কৰো।**
 
 </div>
@@ -52,20 +49,12 @@ I build fast, learn fast, and keep leveling up.
 
 ---
 
-# 📌 Featured Work  
 > I build small, sharp, useful things. Real output > empty talk.
-
-### 🔹 **About** – Who I am & what I do  
-### 🔹 **AI Agents** – Tiny systems that automate real work  
-### 🔹 **Automation Scripts** – Tools that save hours  
-### 🔹 **AI-Powered Mini Games** – Fun + functional  
-### 🔹 **Informative Tools** – Quick knowledge + clarity  
 
 ---
 
 # 🎯 বৰ্তমান লক্ষ্য  
-প্ৰতিদিন শিকোঁ, গঢ়োঁ, আৰু আগুৱাই যাওঁ।  
-AI দক্ষতাক বিশ্বমানৰলৈ লৈ যোৱাৰ লক্ষ্য।
+প্ৰতিদিন শিকোঁ, গঢ়োঁ, আৰু আগুৱাই যাওঁ। 
 
 ---
 
