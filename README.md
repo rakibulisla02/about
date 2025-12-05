@@ -44,7 +44,7 @@ I learn fast. Ship fast. Improve nonstop.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Stack-OpenAI%20%7C%20LangChain%20%7C%20VectorDB-00E1FF?style=flat-square" />
+<img src="https://img.shields.io/badge/GenAI%20Stack-OpenAI%20%7C%20LangChain%20%7C%20HuggingFace%20%7C%20DeepSeek%20%7C%20Claude%20%7C%20Gemini%20%7C%20Grok%20%7C%20Midjourney%20%7C%20ElevenLabs-6A00FF?style=flat-square" />
 </p>
 
 ---
