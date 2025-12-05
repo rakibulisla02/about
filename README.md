@@ -35,7 +35,7 @@ I build fast, learn fast, and keep leveling up.
 - 📚 **Informative + Educational Tools**
 - Small, sharp utilities that deliver clarity, insights, and fast knowledge when you need it.
 
-> মই কথা নহয় — কাম কৰো।**
+> মই কথা নহয় — কাম কৰো।
 
 </div>
 
@@ -72,7 +72,7 @@ I build fast, learn fast, and keep leveling up.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakibulisla02)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakibul-islam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibulisla02/)
 
 </div>
 
