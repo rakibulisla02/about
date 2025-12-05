@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=900&color=00E1FF&center=true&vCenter=true&width=650&lines=Rakibul+Islam;AI+%7C+Automation+%7C+Builder;Always+Learning.+Always+Building." />
+</h1>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Vibe%20Engineer-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation%20Developer-7C4DFF?style=for-the-badge" />
@@ -79,7 +83,6 @@ AI দক্ষতাক বিশ্বমানৰলৈ লৈ যোৱা�
 
 ---
 
-<div align="center">
-  <h3>Dream. Build. Repeat.</h3>
-  <i>Made with ♥️ by Rakibul — Always Building.</i>
-</div>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=7C4DFF&center=true&vCenter=true&width=600&lines=Made+by+Rakibul.;Building+Better+Every+Day.;No+Noise.+Only+Output." />
+</h2>
