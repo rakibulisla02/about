@@ -78,8 +78,5 @@ AI কৌশলত নিজকে বিশ্বমানৰ কৰাৰ ল�
 </div>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.svg" width="100%" />
-</div>
 
 <p align="center"><i>Made with ♥️ by Rakibul — Always Learning, Always Building.</i></p>
