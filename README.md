@@ -13,8 +13,11 @@
 <div align="center">
 
 ## 🌌 About Me  
-I build AI tools, agents, automations, **AI-powered games**, and **informative tools** that actually work.  
-I learn fast. Ship fast. Improve nonstop.
+I love playing with AI — building things just to see what’s possible.
+If an idea pops up, I prototype it.
+If it works, I ship it.
+If it fails, I refine it.
+I build fast, learn fast, and keep leveling up.
 
 </div>
 
