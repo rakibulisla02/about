@@ -1,8 +1,12 @@
 <div align="center">
-<p>
-    <img src="https://img.shields.io/badge/AI%20Engineer-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <!-- Hero Banner (SVG Inline Compatible Image Link) -->
+  <h1>
+ </h1>
+
+  <p>
+    <img src="https://img.shields.io/badge/Vibe%20Engineer-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/Automation%20Developer-7C4DFF?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Future%20Tech%20Enthusiast-FF4DA6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Futurology-FF4DA6?style=for-the-badge" />
   </p>
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
