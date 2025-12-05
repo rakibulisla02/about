@@ -30,7 +30,8 @@ I build fast, learn fast, and keep leveling up.
 - ⚙️ **Automation Systems**  
 - 🧩 **Developer Utilities**  
 - 🎮 **AI-Powered Games**  
-- 📚 **Informative + Educational Tools**  
+- 📚 **Informative + Educational Tools**
+- Small, sharp utilities that deliver clarity, insights, and fast knowledge when you need it.
 
 > **মই কথা নহয় — কাম কৰো।**
 
