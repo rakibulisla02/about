@@ -61,7 +61,7 @@ If it fails, I refine it.
 
 # 📈 Stats  
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-rakibulisla02-181717?style=flat-square&logo=github" alt="GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakibulisla02&theme=tokyonight&hide_border=true" alt="Rakibul's streak stats" />
 </p>
 
 ---
