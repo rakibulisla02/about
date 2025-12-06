@@ -25,15 +25,12 @@ If it fails, I refine it.
 <div align="center">
 
 # 🚀 মই কি কি বনাওঁ  
-- 🤖 **AI Assistants & Agents**
-- Tiny autonomous systems that automate real work, run tasks, and handle operations without human effort.    
-- 🎮 **AI-Powered Games**
-- Fun, interactive experiments that mix creativity with AI logic — entertaining but still functional.
-- 📚 **Informative + Educational Tools**
-- Small, sharp utilities that deliver clarity, insights, and fast knowledge when you need it.
+
+- 🤖 **AI First Websites** — I design and develop modern, dynamic websites enhanced with AI — fast, clean, and built to outperform anything in the market.  
+- 🎮 **AI-Powered Games** — Fun, interactive experiments that mix creativity with AI logic — entertaining *and* functional.  
+- 📚 **Informative + Educational Tools** — Small, sharp utilities that deliver clarity, insights, and fast knowledge when you need it.
 
 </div>
-
 ---
 
 # 🛠 Skills & Tools  
