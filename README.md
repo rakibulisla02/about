@@ -52,7 +52,7 @@ A curated collection of my best live projects focused on **education, AI awarene
 ---
 
 ### 🎮 Curious Kids — Interactive 3D Learning Game (Ages 8–15)  
-A fun, browser-based 3D knowledge game that helps kids learn science, space, animals, technology, and general knowledge through **quizzes, facts, and exploration**. No login required. Works perfectly on mobile and desktop.
+A fun, browser-based 3D knowledge game that helps kids learn science, space, animals, technology, and general knowledge through **quizzes, facts, and exploration**.
 
 🔗 **Live Demo:** https://curious-kids-game.netlify.app/  
 🛠 **Stack:** HTML • Tailwind CSS • JavaScript • Three.js  
