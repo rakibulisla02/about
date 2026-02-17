@@ -13,7 +13,7 @@
 <div align="center">
 
 ## 🌌 About Me  
-I love playing with AI — building things just to see what’s possible.
+I love playing with AI - building things just to see what’s possible.
 If an idea pops up, I prototype it.
 If it works, I ship it.
 If it fails, I refine it.
